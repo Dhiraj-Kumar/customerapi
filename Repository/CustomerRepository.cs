@@ -41,7 +41,8 @@ namespace firstapi.Repository
             var cust = customerlist.Where(x => x.Id == id).FirstOrDefault();
             if (cust != null)
             {
-                cust.Name = customer.Name;
+                cust.FirstName = customer.FirstName;
+                cust.LastName = customer.LastName;
                 cust.Email = customer.Email;
                 cust.City = customer.City;
                 cust.Age = customer.Age;

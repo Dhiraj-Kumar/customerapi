@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GlobalLogic_Backend\\ASP Demos\\firstapi\\firstapi.csproj": {}
+    "C:\\Users\\Dhiraj\\Desktop\\firstapi\\firstapi.csproj": {}
   },
   "projects": {
-    "D:\\GlobalLogic_Backend\\ASP Demos\\firstapi\\firstapi.csproj": {
+    "C:\\Users\\Dhiraj\\Desktop\\firstapi\\firstapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GlobalLogic_Backend\\ASP Demos\\firstapi\\firstapi.csproj",
+        "projectUniqueName": "C:\\Users\\Dhiraj\\Desktop\\firstapi\\firstapi.csproj",
         "projectName": "firstapi",
-        "projectPath": "D:\\GlobalLogic_Backend\\ASP Demos\\firstapi\\firstapi.csproj",
+        "projectPath": "C:\\Users\\Dhiraj\\Desktop\\firstapi\\firstapi.csproj",
         "packagesPath": "C:\\Users\\Dhiraj\\.nuget\\packages\\",
-        "outputPath": "D:\\GlobalLogic_Backend\\ASP Demos\\firstapi\\obj\\",
+        "outputPath": "C:\\Users\\Dhiraj\\Desktop\\firstapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
