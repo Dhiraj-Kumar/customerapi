@@ -1,0 +1,7 @@
+D:\GlobalLogic_Backend\ASP Demos\firstapi\obj\Release\netcoreapp3.1\PubTmp\Out\firstapi.exe
+D:\GlobalLogic_Backend\ASP Demos\firstapi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\GlobalLogic_Backend\ASP Demos\firstapi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\GlobalLogic_Backend\ASP Demos\firstapi\obj\Release\netcoreapp3.1\PubTmp\Out\firstapi.dll
+D:\GlobalLogic_Backend\ASP Demos\firstapi\obj\Release\netcoreapp3.1\PubTmp\Out\firstapi.deps.json
+D:\GlobalLogic_Backend\ASP Demos\firstapi\obj\Release\netcoreapp3.1\PubTmp\Out\firstapi.runtimeconfig.json
+D:\GlobalLogic_Backend\ASP Demos\firstapi\obj\Release\netcoreapp3.1\PubTmp\Out\firstapi.pdb
